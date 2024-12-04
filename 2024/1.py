@@ -1,4 +1,3 @@
-from collections import Counter
 from load_data import load_puzzle_input
 
 lines = load_puzzle_input("1")
